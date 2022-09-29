@@ -1,0 +1,7 @@
+// 컴포넌트 파일들이 탭에 열려있지 않아도 자동완성이 작동 되도록 해줌
+// ctrl + space
+{
+    "compilerOptions": {
+        "target": "es2020"
+    }
+}

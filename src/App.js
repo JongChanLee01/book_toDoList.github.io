@@ -1,9 +1,12 @@
-import './App.css';
+import TodoTemplate from "./components/TodoTemplate";
+import TodoInsert from "./components/TodoInsert";
 
 function App() {
   return (
     <div className="App">
-      <h1>책을 보고 만드는 To Do List!</h1>
+      <TodoTemplate>
+        <TodoInsert />
+      </TodoTemplate>
     </div>
   );
 }
