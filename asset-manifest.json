@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/book_toDoList.github.io/static/css/main.0e8ef33e.css",
+    "main.js": "/book_toDoList.github.io/static/js/main.2ea56215.js",
+    "static/js/787.da6b8bd2.chunk.js": "/book_toDoList.github.io/static/js/787.da6b8bd2.chunk.js",
+    "index.html": "/book_toDoList.github.io/index.html",
+    "main.0e8ef33e.css.map": "/book_toDoList.github.io/static/css/main.0e8ef33e.css.map",
+    "main.2ea56215.js.map": "/book_toDoList.github.io/static/js/main.2ea56215.js.map",
+    "787.da6b8bd2.chunk.js.map": "/book_toDoList.github.io/static/js/787.da6b8bd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e8ef33e.css",
+    "static/js/main.2ea56215.js"
+  ]
+}
